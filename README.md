@@ -39,3 +39,13 @@ Explore our virtual tour, browse upcoming releases, and unlock exclusive promoti
   - Use images and text for more varied content.
   - Use of short texts and longer texts, so the reading doesn't get too tiring.
   - Use technologies and tools that improve site development and performance.
+
+
+### Structure
+
+- For the Cineplex Planet site I planned to separate the site into four pages.
+  - The initial page (Home), which will be the site's presentation page, will contain a little about the Cineplex Planet project, investment values and how to become a member.
+  - The second page (Movies) will show some movies showing on the opening day.
+  - The third page (Experience), talks about the types of rooms present in the project and the particularity of each one.
+  - The fourth page shows my portfolio so my clients can see about my job so far.
+  - The fourth page (Contact), is where the customer can become a member of the cinema, get in touch with us and have access to the head office address.

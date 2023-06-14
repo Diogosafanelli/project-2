@@ -10,7 +10,7 @@ Explore our virtual tour, browse upcoming releases, and unlock exclusive promoti
  - Here is the link to the final project > [Cineplex Planet](https://diogosafanelli.github.io/project-2/)
 
  
- <img src="img/readme.png" alt="">
+ <img src="img/readme.png" alt=""> add picture
 
  ## UX/UI Design
  <hr>
@@ -49,3 +49,82 @@ Explore our virtual tour, browse upcoming releases, and unlock exclusive promoti
   - The third page (Experience), talks about the types of rooms present in the project and the particularity of each one.
   - The fourth page shows my portfolio so my clients can see about my job so far.
   - The fourth page (Contact), is where the customer can become a member of the cinema, get in touch with us and have access to the head office address.
+
+
+### Surface
+
+#### Colour scheme
+
+- The colors chosen for the composition of the site were a combination of 6 colors (Night, White, Robin egg blue, Night, Seasalt, Jet).
+- To highlight the background color of the text on the pages I used a mixture of dark tones (Night, Jet) with light colors (White, Robin egg blue and Seasalt).
+- Here is an image of the color palette used on the website (source: Coolors.io).
+
+<img src="img/colors.png" alt=""> add picture
+
+#### Typography
+
+- The font were selected from Google Fonts.
+  - The font chosen was Kumbh sans
+
+#### Images
+
+- The images selected for the site are intended to complement and help the content. Each selected image was designed to match the section it was added to.
+  - About section image: to create an initial visual impact.
+  - All images on the page were taken from google.
+
+
+## Features
+<hr>
+
+### Existing Features
+
+- Banner 
+  - Present on all pages (Home/Movies/Experience/Contact) is intended to create a style and identity for the page. The elements in the image refer to the title and theme of the site.
+
+- Navigation Bar
+  - Present on all pages to facilitate navigation between them. The font is the same used throughout the website, I tried to keep the style and colors the same as the website.
+  - I added a hover effect on the navigation options to make them stand out more when selecting them.
+  
+  
+  <img src="img/menu.png" alt=""> add images
+
+  <img src="img/menu2.png" alt=""> add images
+
+  
+- Footer
+  - Present on all pages as well. At the bottom of the page, the footer has icons for social networks, making it easier for the user to connect with the community and our site. Applied the hover effect to also discriminate what the destination will be. All options open in a new tab.
+
+
+### Home page
+
+- This section was created with the intention of introducing the user to the website and explaining what information he/she will have access to.
+- Also talk about the project as a whole and some curiosities about the project, such as cities where cinema will be present, amounts to be invested in the program.
+
+  <img src="img/home pagehome.png" alt=""> add Images
+
+
+
+
+### Movies page 
+
+- This section shows which films will be showing on the opening day of the cinema with a brief synopsis about.
+
+<img src="img/about me.png" alt=""> add images
+
+### Experience page
+
+- This section tells a little more about the different types of rooms that the cinema has in its project and a little about the particularity of each one of them.
+
+<img src="img/investment.png" alt=""> add images
+
+### Contact page
+
+- This contact section was developed to open a communication space for the customer and also where our customers can become a cinema partner.
+
+
+<img src="img/portfolio.png" alt=""> add images
+
+
+
+  
+

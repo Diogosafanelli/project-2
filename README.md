@@ -10,7 +10,7 @@ Explore our virtual tour, browse upcoming releases, and unlock exclusive promoti
  - Here is the link to the final project > [Cineplex Planet](https://diogosafanelli.github.io/project-2/)
 
  
- <img src="img/readme.png" alt=""> add picture
+ ![readme](https://github.com/Diogosafanelli/project-2/assets/131887685/9383aaa0-6af4-4410-878e-26489c19ab70)
 
  ## UX/UI Design
  <hr>
@@ -59,7 +59,7 @@ Explore our virtual tour, browse upcoming releases, and unlock exclusive promoti
 - To highlight the background color of the text on the pages I used a mixture of dark tones (Night, Jet) with light colors (White, Robin egg blue and Seasalt).
 - Here is an image of the color palette used on the website (source: Coolors.io).
 
-<img src="img/colors.png" alt=""> add picture
+![color](https://github.com/Diogosafanelli/project-2/assets/131887685/54a3ac75-c4b5-4257-9aec-8e948ab13e00)
 
 #### Typography
 
@@ -86,9 +86,9 @@ Explore our virtual tour, browse upcoming releases, and unlock exclusive promoti
   - I added a hover effect on the navigation options to make them stand out more when selecting them.
   
   
-  <img src="img/menu.png" alt=""> add images
+  ![NAV BAR](https://github.com/Diogosafanelli/project-2/assets/131887685/eec36b07-a1e9-4b06-aa36-fa07667fbe59)
 
-  <img src="img/menu2.png" alt=""> add images
+  ![NAV BAR 2](https://github.com/Diogosafanelli/project-2/assets/131887685/a952f35e-e16d-4a70-9c99-79e0b8691b5f)
 
   
 - Footer
@@ -100,7 +100,10 @@ Explore our virtual tour, browse upcoming releases, and unlock exclusive promoti
 - This section was created with the intention of introducing the user to the website and explaining what information he/she will have access to.
 - Also talk about the project as a whole and some curiosities about the project, such as cities where cinema will be present, amounts to be invested in the program.
 
-  <img src="img/home pagehome.png" alt=""> add Images
+  ![home page](https://github.com/Diogosafanelli/project-2/assets/131887685/bf65f463-9f66-4406-9590-d129578394bf)
+
+
+  ![home page 2](https://github.com/Diogosafanelli/project-2/assets/131887685/20c3498c-f7e7-4586-8c59-f01ebdb7451a)
 
 
 
@@ -109,20 +112,21 @@ Explore our virtual tour, browse upcoming releases, and unlock exclusive promoti
 
 - This section shows which films will be showing on the opening day of the cinema with a brief synopsis about.
 
-<img src="img/about me.png" alt=""> add images
+![movies page](https://github.com/Diogosafanelli/project-2/assets/131887685/0f7ca8ca-617b-4339-8ad2-46cc8899f9ff)
 
 ### Experience page
 
 - This section tells a little more about the different types of rooms that the cinema has in its project and a little about the particularity of each one of them.
 
-<img src="img/investment.png" alt=""> add images
+![expirence page](https://github.com/Diogosafanelli/project-2/assets/131887685/773d54ed-bde3-41ff-bb83-b954394c2714)
 
 ### Contact page
 
 - This contact section was developed to open a communication space for the customer and also where our customers can become a cinema partner.
 
 
-<img src="img/portfolio.png" alt=""> add images
+![contact page](https://github.com/Diogosafanelli/project-2/assets/131887685/2cb02126-629c-4c7c-9745-f8811067a69c)
+
 
 ### Features Left to Implement
 
@@ -151,17 +155,17 @@ Explore our virtual tour, browse upcoming releases, and unlock exclusive promoti
 
 - HTML
 
-  - No errors were returned when passing through the official W3C Validator. Validated. add link
+  - No errors were returned when passing through the official W3C Validator. [Validated](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiogosafanelli.github.io%2Fproject-2%2Findex.html)
   
 All html pages validated
 
 - CSS
 
-  - No errors were found when passing through the official W3C Jigsaw Validator. Validated. add link
+  - No errors were found when passing through the official W3C Jigsaw Validator. [Validated](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdiogosafanelli.github.io%2Fproject-2%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 - JavaScript
 
-  - No errors or relevant issues were found when passing through the official validator JShint. add link
+  - No errors or relevant issues were found when passing through the official validator JShint.
   - 
 ### Performance Testing
 
@@ -175,7 +179,7 @@ Add images
 
 ### Other Tests
 
-- Acessibility - To check accessibility, I did the test using WAVE from WebAIM. The site didn't present any relevant errors or alerts. Report. add link 
+- Acessibility - To check accessibility, I did the test using WAVE from WebAIM. The site didn't present any relevant errors or alerts. [Report](https://wave.webaim.org/report#/https://diogosafanelli.github.io/project-2/index.html)
 
 ### User Story Testing
 

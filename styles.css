@@ -512,12 +512,12 @@ button:active {
 	user-select: none;
 }
 
-.faq label div:first-child {
+.faq label .faqheading:first-child {
 	margin-top: 1.5rem;
 	font-weight: 600;
 	font-size: 22px;
 	line-height: 33px;
-	color: #FFFFFF;
+	color: #00CED1;
 }
 
 .faq .cross {

@@ -169,12 +169,15 @@ All html pages validated
   - 
 ### Performance Testing
 
-- Lighthouse DevTools [link test](https://github.com/Diogosafanelli/project-2/issues/9#issue-1759708381)
+- Lighthouse DevTools
 
-  - Home page performance.
+  
+![lighthouse](https://github.com/Diogosafanelli/project-2/assets/131887685/4b1eac4a-35ba-43d8-b7fa-f653a9fcbd58)
 
 
-Add images
+
+
+
 
 
 ### Other Tests
